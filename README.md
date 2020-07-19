@@ -1,19 +1,14 @@
-# Project 3 - *InstaApp*
+# *InstaApp* MVP 2
 
 **InstaApp** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **7** hours spent in total
+Time spent: **23** hours spent in total
 
-## User Stories
+## Features
 
-The following **required** functionality is completed:
-
-- [X] User can view the last 20 posts submitted to "Instagram".
-- [X] User can pull to refresh the last 20 posts submitted to "Instagram".
-- [X] The user should switch between different tabs - viewing all posts (feed view), capture (camera and photo gallery view) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
-
-The following **optional** features are implemented:
-
+- [X] User can view the last 20 posts submitted to "InstaApp".
+- [X] User can pull to refresh the last 20 posts submitted to "InstaApp".
+- [X] The user can switch between different tabs - viewing all posts (feed view), capture (camera and photo gallery view) and profile tabs (posts made) using fragments and a Bottom Navigation View.
 - [X] Style the feed to look like the real Instagram feed.
 - [X] User can load more posts once he or she reaches the bottom of the feed using infinite scrolling.
 - [X] Show the username and creation time for each post.
@@ -27,18 +22,15 @@ The following **optional** features are implemented:
 - [X] Run your app on your phone and use a custom camera view
 
 
-
 ## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/priyil/InstaApp/blob/master/walkthrough1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
+<!--- ## Notes
 
-Setting up pull to refresh while using fragments was hard.
+Setting up pull to refresh while using fragments was hard. --->
 
 ## Open-source libraries used
 
@@ -61,34 +53,30 @@ Setting up pull to refresh while using fragments was hard.
     See the License for the specific language governing permissions and
     limitations under the License.
 
-# Project 3 - *InstaApp*
+# *InstaApp* MVP 1
 
 **InstaApp** is a photo sharing app similar to Instagram but using Parse as its backend.
 
 Time spent: **10** hours spent in total
 
-## User Stories
-
-The following **required** functionality is completed:
+## Features
 
 - [X] User can sign up to create a new account using Parse authentication.
 - [X] User can log in and log out of his or her account.
 - [X] The current signed in user is persisted across app restarts.
 - [X] User can take a photo, add a caption, and post it to "Instagram".
 
-The following **optional** features are implemented:
+<!--- The following **optional** features are implemented:
 
 - [ ] User sees app icon in home screen and styled bottom navigation view
 - [ ] Style the feed to look like the real Instagram feed.
-- [ ] After the user submits a new post, show an indeterminate progress bar while the post is being uploaded to Parse.
+- [ ] After the user submits a new post, show an indeterminate progress bar while the post is being uploaded to Parse. --->
 
 <!--The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!-->
 
 ## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/priyil/InstaApp/blob/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
