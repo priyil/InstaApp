@@ -14,8 +14,8 @@ Time spent: **23** hours spent in total
 - [X] Show the username and creation time for each post.
 - [X] User can tap a post to view post details, including timestamp and caption.
 - [X] User Profiles
-      - [X] Allow the logged in user to add a profile photo
-      - [X] Display the profile photo with each post
+- [X] Allow the logged in user to add a profile photo
+- [X] Display the profile photo with each post
 - [X] Tapping on a post's username or profile photo goes to that user's profile page and shows a grid view of the user's posts
 - [X] User can comment on a post and see all comments for each post in the post details screen.
 - [X] User can like a post and see number of likes for each post in the post details screen.
